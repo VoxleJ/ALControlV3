@@ -1,0 +1,17 @@
+Test Cases:
+
+Test 1: User closes app while drinking--> BAC is persistent and will still be calculated when adding drinks.
+Test 2: User spams add drink--> BAC is still calculated and persistent pressing should not crash the app.
+Test 3: User presses back button to switch drink type--> Drink type may not change; checked changing drink type by parsing the 
+        data file
+Test 4: End Session does not end session--> Hit end session, check if BAC is still displayed/add drink and see if BAC is 
+        still increasing from the last known value
+Test 5: Horizontal View-->Unfortunately Landscape View is not supported in this version.
+Test 6: Accurate BAC calculations compared to the initial formula--> compute seconds elapsed and do by hand; from internal 
+        testing it seems to work properly
+Test 7: User exits without ending session--> App will still calculate BAC from last drink; generally should not be an issue 
+        as the BAC calculation also incorporates time however the user may need to end session before inputting a 
+        different drink type.
+Test 8: Constantly open and reopen app--> User is greeted with welcome page each time, requiring an ever updating profile; this can be
+        Interpreted as a feature as weight can fluctuate quite rapidly in our market (College Students), so this could be an 
+easy way to update profiles.
