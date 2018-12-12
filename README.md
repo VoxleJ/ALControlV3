@@ -12,3 +12,5 @@ This app has not been uploaded to the Google Play Store, and no unnecessary perm
 Developed by: Luke Atlas, Egor Badich, Lorenzo Dubrocq, Nicole Elbeery, and Vibhav Jha
 
 Version Control by Vibhav Jha
+
+In order to run app within Android Studio please do not download the ReadMe.md or the Extras Folder.
