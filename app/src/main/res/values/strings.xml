@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">ALControl V2</string>
+    <string name="welcome">Welcome!</string>
+    <string name="continue_text">Continue</string>
+    <string name="textview">TextView</string>
+    <string name="submit">Submit</string>
+    <string name="pickdrink">pickDrink</string>
+    <string name="selectdrink">SelectDrink</string>
+    <string-array name="gender_array">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Prefer not to say</item>
+    </string-array>
+    <string name="title_activity_drink_tab">DrinkTab</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_blank_fragment1">Beer</string>
+    <string name="hello_blank_fragment2">Wine</string>
+    <string name="hello_blank_fragment3">Liquor</string>
+    <string name="can">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="weight">Weight</string>
+    <string name="beer">Beer</string>
+    <string name="wine">Wine</string>
+    <string name="liquor">Liquor</string>
+    <string name="add_drink">Add Drink</string>
+    <string name="end_session">End Session</string>
+    <string name="_25">25%</string>
+    <string name="warning1">No loss of coordination, slight euphoria, and loss of shyness.</string>
+    <string name="warning2">Feeling of well-being, relaxation, lower inhibitions, and sensation of warmth. Euphoria. Some minor impairment of judgment and memory, lowering of caution.</string>
+    <string name="warning3">Slight impairment of balance, speech, vision, reaction time, and hearing. Euphoria. Reduced judgment and self-control. Impaired reasoning and memory.</string>
+    <string name="warning4">Significant impairment of motor coordination and loss of good judgment. Speech may be slurred.</string>
+    <string name="warning5">Severe motor impairment and lack of physical control. Blurred vision and major loss of balance.</string>
+    <string name="warning6">Feeling unwell. Nausea may appear.</string>
+    <string name="warning7">Needs assistance in walking; total mental confusion. Nausea and vomiting; possible blackout.</string>
+    <string name="warning8">Alcohol poisoning. Loss of consciousness.</string>
+    <string name="warning9">Onset of coma, possible death due to respiratory arrest.</string>
+    <string name="welcome_to_alcontrol">Welcome to ALControl</string>
+</resources>
